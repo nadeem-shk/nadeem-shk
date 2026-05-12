@@ -9,8 +9,8 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com
-- Portfolio: https://your-portfolio-link.vercel.app
+- LinkedIn: https://www.linkedin.com/in/shaikh-nadeem-0357b1391/
+- Portfolio: nadeem-portfolio-pi.vercel.app
 
 ---
 
